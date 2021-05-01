@@ -3,7 +3,7 @@ Login into the game using ```ssh banditX@bandit.labs.overthewire.org -p 2220``` 
 ## bandit0 -> bandit1
 Login into bandit0 with the password **bandit0** <br />
 In this level the password is stored in the file **readme** <br />
-We can view contents of a file using the command ```cat [filename]``` <br />
+We can view contents of a file using the command ```cat <filename>``` <br />
 So now required command is **cat readme** <br />
 Password for bandit1 is **boJ9jbbUNNfktd78OOpsqOltutMc3MY1** 
 
@@ -34,12 +34,12 @@ First to move to a different directory do ```cd <directory>```. In this case it 
 Human readable files mean they have ASCII text within them. 
 To find its type, do ```file <filename>``` <br />
 Since many files are there, do ```file ./*``` to get information about type of each file <br />
-Password can be found in a file named -file07(Since it is ASCII type) <br />
+Password can be found in a file named **-file07**(Since it is ASCII type) <br />
 After which do ```cat ./file07``` to get the password. <br />
 Passowrd for bandit5 is **koReBOKuIDDepwhWk7jZC0RTdopnAYKh** 
 
-#bandit5 -> bandit6
-Commands to be used are 
+## bandit5 -> bandit6
+Commands to be used are <br />
 ```cd inhere``` <br />
 ```find -size 1033c``` <br />
 ```cat ./maybehere07/.file2``` <br />
