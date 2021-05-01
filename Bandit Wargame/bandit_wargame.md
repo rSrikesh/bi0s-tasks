@@ -55,9 +55,7 @@ Passowrd for bandit7 is **HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs**
 Command to be used is ```cat data.txt | grep millionth``` <br />
 Password for bandit8 is **cvX2JJa4CFALtqS87jk27qwqGhBM9plV**
 
-## bandit8 -> bandit9
-Command to be used is ```cat data.txt | sort | uniq -u``` <br />
-Password for bandit9 is **UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR**
+
 
 
 
