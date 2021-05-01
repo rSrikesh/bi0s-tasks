@@ -45,6 +45,13 @@ Commands to be used are <br />
 ```cat ./maybehere07/.file2``` <br />
 Password for bandit6 is **DXjZPULLxYr17uwoI01bNLQbtFemEgo7**
 
+## bandit6 -> bandit7
+Commands to be used are <br />
+```find / -user bandit7 -group bandit6 -size 33c``` <br />
+```cat /var/lib/dpkg/info/bandit7.password``` <br />
+Passowrd for bandit7 is **HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs**
+
+
 
 
 
