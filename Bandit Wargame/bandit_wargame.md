@@ -35,7 +35,7 @@ Human readable files mean they have ASCII text within them.
 To find its type, do ```file <filename>``` <br />
 Since many files are there, do ```file ./*``` to get information about type of each file <br />
 Password can be found in a file named **-file07**(Since it is ASCII type) <br />
-After which do ```cat ./file07``` to get the password. <br />
+After which do ```cat ./-file07``` to get the password. <br />
 Passowrd for bandit5 is **koReBOKuIDDepwhWk7jZC0RTdopnAYKh** 
 
 ## bandit5 -> bandit6
