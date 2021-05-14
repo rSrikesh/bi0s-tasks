@@ -3,10 +3,8 @@ import json
 
 x = input("Enter country code: ")
 y = input("enter pincode: ")
-z = "http://api.zippopotam.us/"
-a = "/"
+url = "http://api.zippopotam.us/"+x+"/"+y
 
-url =  z+x+a+y
 
 webUrl  = urllib.request.urlopen(url)
 print("\n")
