@@ -1,1 +1,4 @@
-S
+I used the Stegsnow tool for this challenge. When I read the text data , i understood that "thisiseasy" will be the key to find the flag. When i used this key in the 
+Stegsnow tool , i got a text of base64 form. Then i used the terminal's base64 decoder to find the flag. 
+
+The flag is inctfj{h4h4_st3gsn0w_i5_c00000001}
