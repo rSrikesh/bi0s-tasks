@@ -5,4 +5,5 @@ It was said that there are multiple files and images embeded within this images.
 
 Then I used ```dd if=sus.png of=flag.jpeg skip=7821 bs=1``` .
 
-The resultant flag.jpeg was 
+The resultant flag.jpeg was <br />
+![flag](https://github.com/rSrikesh/bi0s-tasks/blob/main/Traboda%20Writeups/con/flag.jpeg)
