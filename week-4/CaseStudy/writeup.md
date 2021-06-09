@@ -11,8 +11,12 @@ Important point to note is that the database exploited is a 15gb file in SQL For
 
 It included hashed passwords of the affected customers. However, some passwords in plain text are now also put on sale on the dark Web. <br />
 
+![img-1](https://github.com/rSrikesh/bi0s-tasks/blob/main/week-4/CaseStudy/img/img1.png)
+
 Cyble also claimed that the data was put up for sale on the dark web for $40,000.
 
 ## About ShinyHunters
 
 ShinyHunters is the same hacking group that has started to flood a dark web hacking marketplace with databases containing a combined total of 73.2 million user records over 11 different companies, according to threat intelligence SaaS provider Cyble. The group has been operating since 2015, some of their aliases are Shiny Hunters, #TheDarkOverlord, Gnostic Players. 
+
+![img-2](https://github.com/rSrikesh/bi0s-tasks/blob/main/week-4/CaseStudy/img/img2.png)
