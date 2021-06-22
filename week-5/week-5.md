@@ -10,6 +10,13 @@ Published Writeups for Traboda Challenges in a blogging site called Medium <br /
 ### 8.Jay-Chot ~ [Link](https://srikeshravikumar.medium.com/jay-chot-traboda-forensic-challenge-write-up-384262d55213) <br />
 ### 9.Angry Steve ~ [Link](https://srikeshravikumar.medium.com/angry-steve-traboda-forensic-challenge-write-up-2edfd0e4f35a) <br />
 ### 10.Shark On Wire ~ [Link](https://srikeshravikumar.medium.com/shark-on-wire-traboda-forensic-challenge-write-up-9ed7d08dc986) <br />
-
+### 11.Simple RSA ~ [Link](https://srikeshravikumar.medium.com/simple-rsa-traboda-crypto-challenge-write-up-a49cd4482821) <br />
+### 12.Con-The-Cat ~ [Link](https://srikeshravikumar.medium.com/con-the-cat-traboda-forensic-challenge-write-up-89354778f95b) <br />
+### 13.r0b0c0rp ~ [Link](https://srikeshravikumar.medium.com/r0b0c0rp-traboda-web-challenge-write-up-44f29bb03667) <br />
+### 14.No-Rclick ~ [Link](https://srikeshravikumar.medium.com/no-rclick-traboda-web-challenge-write-up-dde5755c049a) <br />
+### 15.Just Login ~ [Link](https://srikeshravikumar.medium.com/just-login-traboda-web-challenge-write-up-f64cf40cc41e) <br />
+### 16.Snow Man ~ [Link](https://srikeshravikumar.medium.com/snow-man-traboda-forensic-challenge-write-up-f409a17e9119) <br />
+### 17.Mischief Kid ~ [Link](https://srikeshravikumar.medium.com/mischief-kid-traboda-forensic-challenge-write-up-5165b964e8db) <br />
+### 18.Single Byte X0r ~ [Link](https://srikeshravikumar.medium.com/single-byte-x0r-traboda-crypto-challenge-write-up-9b2be2f82547) <br />
 
 
