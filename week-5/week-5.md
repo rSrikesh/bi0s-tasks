@@ -18,5 +18,7 @@ Published Writeups for Traboda Challenges in a blogging site called Medium <br /
 ### 16.Snow Man ~ [Link](https://srikeshravikumar.medium.com/snow-man-traboda-forensic-challenge-write-up-f409a17e9119) <br />
 ### 17.Mischief Kid ~ [Link](https://srikeshravikumar.medium.com/mischief-kid-traboda-forensic-challenge-write-up-5165b964e8db) <br />
 ### 18.Single Byte X0r ~ [Link](https://srikeshravikumar.medium.com/single-byte-x0r-traboda-crypto-challenge-write-up-9b2be2f82547) <br />
+### 19.robo-auth ~ [Link](https://srikeshravikumar.medium.com/robo-auth-traboda-web-challenge-write-up-3fd221927e26) <br />
+### 20.Naive Cipher ~ [Link](https://srikeshravikumar.medium.com/naive-cipher-traboda-crypto-challenge-write-up-ff03543a28b1)
 
 
